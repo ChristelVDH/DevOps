@@ -1,0 +1,3 @@
+# DevOps
+development automation
+scripts and snippets I use for handling text, scripts, config files, etc...
